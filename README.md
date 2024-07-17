@@ -2,7 +2,7 @@ This is a very useful application in today's world and for today's generation.
 
 The inspiration of builiding this application came about because i was trying to register over a website, where it asked for a password which was <strong>insanely complicated</strong> 🙍🙍.
 
-(![My Pass](https://github.com/yourusername/yourrepo/blob/main/example.png)
+(![My Pass](https://github.com/KaranShah1911/Password-Manager-App/blob/main/Password%20Manager.png)
 
 - The major motive of this tool is to save your time for thinking such a brainstorming password and to remember it.
 - You just need to input the name of the website to which you are logging in.
