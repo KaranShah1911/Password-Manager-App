@@ -14,4 +14,4 @@ The inspiration of builiding this application came about because i was trying to
 - After clicking Add it will ask you for a confirmation, whether the entered detalis are correct. If you click "ok" then the txt file will be updated.
 - If you leave any of the fields empty then a message will be popped up asking you to fill up all the fields.
 
-Start using this tool ASAP as it has proved to be a boon for and i seriously had <strong>20</strong> entries on the day I made it 😊😊. 
+Start using this tool ASAP as it has proved to be a boon and i seriously had <strong>20</strong> entries on the day I made it 😊😊. 
