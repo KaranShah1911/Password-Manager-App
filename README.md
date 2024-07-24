@@ -1,3 +1,5 @@
+## Password Manager Tool ##
+
 This is a very cool application in today's world and for today's generation.
 
 The inspiration of builiding this application came about because i was trying to register over a website, where it asked for a password which was <strong>insanely complicated</strong> 🙍🙍.
